@@ -1,0 +1,24 @@
+.local/
+build/
+
+third_party/ntl-11.6.0/ntl.a
+
+*.o
+
+# Latex
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*.bbl
+*.bcf
+*.blg
+*.run.xml
